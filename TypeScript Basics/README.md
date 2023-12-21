@@ -19,5 +19,3 @@
 - Generics
 - Class, Inheritance
 - Interface, Type
-
-### LeetCode and HackerRank problems
